@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678169737 source:c:\users\amaur\documents\pilaestatica2\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+
